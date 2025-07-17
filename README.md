@@ -1,2 +1,25 @@
-# web-works
-Original front-end projects — built to learn, reflect, and serve.
+# Duty by Design
+
+This is a small collection of personal projects made using HTML, CSS, and JavaScript.
+
+Nothing fancy — just things I’m building as I learn and grow. Some are simple ideas, others are small tools or creative bits. All of them are made with care, and with the intention to do good through what I create.
+
+---
+
+## Why I’m doing this
+
+Because building things helps me understand better.  
+Because code is a way to think clearly.  
+Because I believe work — even small — should have purpose behind it.
+
+---
+
+## Projects
+
+- `project-1/` – something small I wanted to try
+- `project-2/` – a bit more complex, still learning
+- (more will be added over time)
+
+---
+
+That’s it for now. Thanks for stopping by.
