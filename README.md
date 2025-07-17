@@ -16,9 +16,7 @@ Because I believe work — even small — should have purpose behind it.
 
 ## Projects
 
-- `project-1/` – something small I wanted to try
-- `project-2/` – a bit more complex, still learning
-- (more will be added over time)
+- They will keep getting updated/added to the current ones.
 
 ---
 
