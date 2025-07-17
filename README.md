@@ -16,7 +16,7 @@ Because I believe work — even small — should have purpose behind it.
 
 ## Projects
 
-- I will keep updating/adding them as soon I make new ones.
+- I will keep updating/adding them as soon as I make new ones.
 
 ---
 
